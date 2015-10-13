@@ -1,0 +1,2 @@
+(*NO_JIT)((?x)[^*]*?
+'|(\S  \\g'+1(?m))ameSora_Sompeng)++%(?s)

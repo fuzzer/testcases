@@ -1,0 +1,1 @@
+(*NOTEMPTY)(*UTF)(*NO_JIT)\.+\w+(?s).:\r.Xsp?:l&(*COMMIT)Xuc

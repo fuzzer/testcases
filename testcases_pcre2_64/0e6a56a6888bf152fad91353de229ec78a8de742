@@ -1,0 +1,3 @@
+(*NO_JIT)\S*\v+.\w*:*\\W\K#*(?<!ame)
+
+(*ACCEPT)\x90!*UQXa(?#)

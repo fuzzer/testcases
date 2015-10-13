@@ -1,0 +1,3 @@
+(*UTF)(*ANY)(?x)B?
+#($
+\b:(*FAIL)*BSR_UNICODE)(?(assert)

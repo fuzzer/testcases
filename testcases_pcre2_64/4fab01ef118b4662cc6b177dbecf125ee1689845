@@ -1,0 +1,1 @@
+(*NO_JIT)\W\d+XXX?<!|[\E\E(?(*BSR_ANYCRLF)\g<+1>Z,*)'\{\;]'/2?

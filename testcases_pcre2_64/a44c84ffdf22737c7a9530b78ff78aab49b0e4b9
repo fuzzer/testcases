@@ -1,0 +1,1 @@
+(*ANY)(*NO_JIT)(?!..(*PRUNE:NA\H+\*?\h=M(*MARK:E))MATCH=(?=...)

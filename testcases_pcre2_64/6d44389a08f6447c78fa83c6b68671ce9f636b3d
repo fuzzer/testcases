@@ -1,0 +1,1 @@
+(*UCP)(*NO_JIT)(*ANYCRLF).(\R?){9}\\P{[Q+\S*+S*\\E]2}{X\^9?

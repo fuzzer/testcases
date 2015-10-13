@@ -1,0 +1,1 @@
+(*NO_JIT)(*ANY)(?=..())(?C"text")(*THEN)

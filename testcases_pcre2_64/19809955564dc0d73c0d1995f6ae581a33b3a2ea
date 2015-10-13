@@ -1,0 +1,3 @@
+(*UTF)(*NO_JIT)(\H*\S+\
+
+(?J)R):.?(?1){(*SKIP:(*ANYCRLF)

@@ -1,0 +1,1 @@
+(*NO_JIT)[^((?U)NE)]((?s):*-|.*.+(*SKIP:NAME)STAR_ANCHOR)(?m)

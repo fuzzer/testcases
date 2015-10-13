@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)(?<!..;(*SKIP)NE)..+\S+,{1,6}\R+\+ ;(*THEN:NAME)

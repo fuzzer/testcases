@@ -1,0 +1,1 @@
+((*SKIP))((?!..((*PRUNE:NAME))(*ACCEPT)P:NA" )(\1*)?)

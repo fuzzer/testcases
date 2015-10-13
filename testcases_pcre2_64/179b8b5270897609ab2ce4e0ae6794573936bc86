@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)(..+|\(*A\sCRLF)\g<-1>\R

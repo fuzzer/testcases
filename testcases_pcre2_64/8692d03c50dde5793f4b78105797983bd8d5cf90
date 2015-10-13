@@ -1,0 +1,2 @@
+(*UCP)(*NO_JIT)\S*?\(%é\K\K
+(((?:)++UCP)UCPs?\\db\S?){\s(?s)

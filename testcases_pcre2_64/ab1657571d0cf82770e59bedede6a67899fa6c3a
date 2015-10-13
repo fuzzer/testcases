@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)(*CRLF)(*UTF)b.+\h{C\w+(?s).*\X|..*?}(?x)#'

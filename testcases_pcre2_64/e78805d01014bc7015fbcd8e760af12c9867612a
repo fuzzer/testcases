@@ -1,0 +1,1 @@
+(*CRLF)(*UTF)(*NO_JIT)\V*(?<=...)! (\V*?h){?1S(*PRUNE:NAME)

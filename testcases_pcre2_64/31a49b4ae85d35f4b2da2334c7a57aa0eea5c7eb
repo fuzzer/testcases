@@ -1,0 +1,1 @@
+\D{2}.{0,6}(?1)R((?<!(*SKIP:NAME)START_OPT)FAIL)

@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)(*PRUNE).+\H\p{Any}\H+	`\d(*SKIP)

@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT).(\w[^.;]|)+?(*SKIP:NA(?-'{(?C"text")(Xsp_JIT)

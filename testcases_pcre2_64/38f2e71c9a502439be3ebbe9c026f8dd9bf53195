@@ -1,0 +1,1 @@
+(*NO_JIT).+.*\w(*SKIP:N\PL(1*.\|((*BSR_UNICODE)s*\P{Xps}*?AMEH

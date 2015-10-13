@@ -1,0 +1,3 @@
+(*NO_JIT)(*ANYCRLF)S!
+
++(?m)\p{Any}{¿^^^|l^Sora_Sompeng\R(?m)

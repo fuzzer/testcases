@@ -1,0 +1,3 @@
+(*NO_JIT)(?x).*#
+(()\R?(*SKIP:NAME)\d#
+\SANY)&Sompen\D\(*L|'#"'

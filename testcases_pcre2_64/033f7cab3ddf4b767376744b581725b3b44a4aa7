@@ -1,0 +1,1 @@
+(*NO_JIT);*LI.*?((\B\B\B\B(*PRUNE)DEFINE)Š\X*?)(?C"text")\s

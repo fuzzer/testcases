@@ -1,0 +1,2 @@
+(*NO_JIT)((*SKIP:NA(?#?(assert)=TF)\p{Any}+\R*
++Sora_Sompeng\d.

@@ -1,0 +1,4 @@
+\PS..+((*SKIP:NAME)T_MATCH=N(?x)m)
+
+
+.?\R+\\R(*ACCEPT)

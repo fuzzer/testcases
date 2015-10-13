@@ -1,0 +1,2 @@
+(*UTF)(*UTF)(*NO_JIT)\B\S*+(:u'UTF)(\Bg
+){.

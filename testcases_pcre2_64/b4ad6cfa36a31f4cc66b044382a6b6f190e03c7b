@@ -1,0 +1,2 @@
+(*UTF)(*NO_JIT)(*UTF)\D.+.*\R?
+* *\s+ .(*SKIP:NAME)Xsp(*FAIL)

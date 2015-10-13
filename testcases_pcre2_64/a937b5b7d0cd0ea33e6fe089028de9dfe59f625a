@@ -1,0 +1,1 @@
+(*UTF)\d*(?=...)?(name)Y(*MARK:NAME)PRUNE(*MARK:NAME)i>\g'-1'

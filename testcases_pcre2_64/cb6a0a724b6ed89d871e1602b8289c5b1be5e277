@@ -1,0 +1,1 @@
+(*NO_JIT)(*UCP)(*NO_DOTSTAR_ANCHOR)\w+(?0)*?\.(*ACCEPT)90Xws\d`

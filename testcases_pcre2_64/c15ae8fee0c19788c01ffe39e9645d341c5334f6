@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT).(?<=...(*ACCEPT))U(*THEN:NAME)P[^.;]+?o\R(?i)

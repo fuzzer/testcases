@@ -1,0 +1,2 @@
+(*NO_JIT)(*UTF)(?i)[Zimt.+\V+˅(
+(*BSR_UNICODE)](.)*\1\xceXsp

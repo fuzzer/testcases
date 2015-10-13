@@ -1,0 +1,2 @@
+(*ANY)(*NO_JIT)\D*.\\d*?(?x)#(*NO_JIT)\H(*THEN)\P{Any}(
+\S+?\.

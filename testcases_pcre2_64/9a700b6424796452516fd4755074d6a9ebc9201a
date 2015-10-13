@@ -1,0 +1,1 @@
+(*NO_JIT)[¬]*\d*\PS(?C"text")(*THEN)(?x)

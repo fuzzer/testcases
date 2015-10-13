@@ -1,0 +1,2 @@
+(*NO_JIT)((*SKIP:NAME)STATTRT
+M(*ACCEPT)(?C"text")(:]|)?{8s)}

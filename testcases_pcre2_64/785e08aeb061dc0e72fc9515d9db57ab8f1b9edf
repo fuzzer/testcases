@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)(?i)!*\ss+$\R(*THEN:NAME)

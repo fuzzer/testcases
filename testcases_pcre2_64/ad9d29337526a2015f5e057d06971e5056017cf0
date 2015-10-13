@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)ū*\d*(*THEN:*H(T(*UTF)(?i)(.)(\1*)EN:+?

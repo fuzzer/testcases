@@ -1,0 +1,1 @@
+(*NO_JIT)[(*FA(*ANYCRLF)].+\SA\p{Xuc}+.+

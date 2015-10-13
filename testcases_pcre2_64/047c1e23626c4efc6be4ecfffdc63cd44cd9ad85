@@ -1,0 +1,1 @@
+(*NO_JIT).+.*\S++\w\(?(R&name)(*COMMIT)(?C"text")

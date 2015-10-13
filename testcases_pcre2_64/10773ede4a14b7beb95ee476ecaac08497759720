@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)(|R+\P{Any}*\v*|\(*A\sCRLF)(?<!...)(?Ui)U\(*NO_J

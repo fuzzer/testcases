@@ -1,0 +1,1 @@
+(*NO_JIT)((?i).+\V+\v~\z8(?!.(*PRUNE:NAME))BSR_ANYC(*SKIP))Þ

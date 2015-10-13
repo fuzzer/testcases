@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)('!TF).+\K\-\S*?\b\S*(*FAIL).*.s+R+?Lp{wXwd}"\R

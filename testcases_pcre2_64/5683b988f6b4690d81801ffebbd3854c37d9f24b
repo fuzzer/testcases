@@ -1,0 +1,2 @@
+(*NO_JIT)
+*(\PS'*\p{Xan}?.+[C|)(*UT^%]\(*SKIP:NAME)

@@ -1,0 +1,1 @@
+(*NO_JIT)\.*(*PRUNE:NAM(?J)\X*\h*\*{Xps}+аш(*ACCEPT)AN

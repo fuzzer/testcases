@@ -1,0 +1,1 @@
+(*UTF)(*BSR_ANYCRLF)!^h$:u|[\W\\WW]*\R*((?s)L)(*PRUNE:NAME)\x90

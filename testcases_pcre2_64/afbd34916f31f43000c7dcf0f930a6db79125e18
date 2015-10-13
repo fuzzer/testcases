@@ -1,0 +1,1 @@
+(*NO_JIT)(*UCP)(*UTF)\p{Any}.+\S\h;.+.|{\N's+?

@@ -1,0 +1,1 @@
+(*NO_JIT)\W*(?<!!(*SKIP:p\b€|h*((*SKIP:()\s|)(|hAME)

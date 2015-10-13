@@ -1,0 +1,1 @@
+(*NO_JIT).+(\v?){(?i)É\\h3(OT)(*PRUNE)(*FAIL)

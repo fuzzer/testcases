@@ -1,0 +1,2 @@
+(*UTF)(*UCP)(*UTF)(*NO_JIT)(8?\d{2}\S*.)\\
+`(*ACCEPT)

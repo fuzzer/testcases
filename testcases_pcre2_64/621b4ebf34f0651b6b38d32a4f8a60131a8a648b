@@ -1,0 +1,1 @@
+(*NO_JIT)/*((*SKIP)UTF)\D*(?i)([^.]{6}r*\g'-1'MIT\\(*ACCEPT)e)$

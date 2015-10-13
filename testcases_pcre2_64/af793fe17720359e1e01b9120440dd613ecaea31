@@ -1,0 +1,2 @@
+(*UTF)[(?<!...)
+(\P{Han}(*\hYCRLF)(*NO_JIT)(*NO_JIT)'[^\(?i)]++

@@ -1,0 +1,2 @@
+(*UCP)(*NO_JIT)([^*]*\S(*SKIP:(?Cn)E[\PS]?S
+* :NAME)JITR(?i)

@@ -1,0 +1,2 @@
+(*UTF)(*UCP)(*UTF)(*NO_JIT)\.*.+\S+~w\Q5\W+?\ww<=(*N((*FAIL)
+++

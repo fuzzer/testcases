@@ -1,0 +1,2 @@
+(*NO_JIT).+.*\S+(\H*(*SKIP:Psalter_Pahl
+vi)$E?\h(*SKIP:NAME))

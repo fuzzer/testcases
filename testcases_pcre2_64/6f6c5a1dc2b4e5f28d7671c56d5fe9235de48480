@@ -1,0 +1,1 @@
+(*ANY)(*NO_JIT)(?!..(*PRUNE:NAME))(\1{MATCH=(?=..6.)})\1\w

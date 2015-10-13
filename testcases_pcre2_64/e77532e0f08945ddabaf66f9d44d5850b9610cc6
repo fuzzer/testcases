@@ -1,0 +1,2 @@
+((*SKIP:NAME)P(*THEN:NAME))|1(?(DEFINE)R_ANYCRLF)
+(?<=...)

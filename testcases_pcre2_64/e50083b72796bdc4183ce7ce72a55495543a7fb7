@@ -1,0 +1,2 @@
+(*ANY)(*UTF)(*NO_JIT)(.*?\V\(*N(*SKIP:NAME)){0,78}2(*PRUNE)
+J{I

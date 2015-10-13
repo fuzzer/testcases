@@ -1,0 +1,2 @@
+(*NO_JIT)P(?!(*THEN)\G|\EF
+NEG|)^(*PRUNE)T_RECURSION=(?=...)

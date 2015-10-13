@@ -1,0 +1,1 @@
+(*UTF)(*BSR_ANYCRLF)(?Us).*.*?.\v\v.((?R).\R*|)+\S"$	H

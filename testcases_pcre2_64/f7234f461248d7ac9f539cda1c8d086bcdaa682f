@@ -1,0 +1,1 @@
+(*UCP)(*NO_JIT).+\W(*SKIP:NAME)((?x)1>*\g<-1>?J).

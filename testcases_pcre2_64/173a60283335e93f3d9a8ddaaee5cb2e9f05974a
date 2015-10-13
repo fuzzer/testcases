@@ -1,0 +1,1 @@
+(*CRLF)(*UTF)(*NO_JIT)\W(\D*?Xws\w*\R\x90\*BSR_U^ICODE)(?U)|	

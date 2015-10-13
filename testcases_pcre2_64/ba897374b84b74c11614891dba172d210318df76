@@ -1,0 +1,1 @@
+(*NO_START_OPT)(*UTF)(*UCP)(*NO_JIT).*(?x).+.\V+.{7}(U\h).+

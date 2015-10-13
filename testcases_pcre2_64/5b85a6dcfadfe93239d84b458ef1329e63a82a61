@@ -1,0 +1,2 @@
+(*UTF)(*NO_JIT)k
+*\s+(\p{Any}?x).*(CR?LF)..(*COMMIT)

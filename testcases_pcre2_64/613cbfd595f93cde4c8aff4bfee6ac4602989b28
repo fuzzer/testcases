@@ -1,0 +1,2 @@
+(*NO_JIT)(((?)[
+]*?(?C)(?<!..(*SKIP:NAME)E)STAR_ANCHOR)CRLF)"

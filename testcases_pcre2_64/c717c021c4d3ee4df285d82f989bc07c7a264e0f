@@ -1,0 +1,1 @@
+(*ANY)(*UTF)(*NO_JIT)(.*?(*THEN:NAME)O_JIT)\濊*(?<!...)\X+\\W

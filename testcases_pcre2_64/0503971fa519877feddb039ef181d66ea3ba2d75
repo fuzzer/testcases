@@ -1,0 +1,1 @@
+(*NO_JIT)\XX*\D?(*SKIP:NAME).+(?i){{6}A*7}+.(?J)

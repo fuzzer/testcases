@@ -1,0 +1,1 @@
+(*NO_JIT)<=.+(?m)\S{3}.+\D$\\V(*PRUNE:NAME)

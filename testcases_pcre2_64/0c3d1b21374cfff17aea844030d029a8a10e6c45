@@ -1,0 +1,2 @@
+(*NO_JIT)(*ANYCRLF)(.+\g<-1>?:)*(THEN	
+(:ý?m)\(?(DEFINE)\*]??)^

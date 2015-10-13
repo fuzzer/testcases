@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)(\(\P{Xuc}*?)\((?<=.Mende_Kikakui)CH\p{Any}x$

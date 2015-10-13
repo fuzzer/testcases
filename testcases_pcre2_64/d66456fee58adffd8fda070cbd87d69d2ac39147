@@ -1,0 +1,3 @@
+(*NO_JIT):b.+\v.+(?>.)*?5
++#
+(?x)O*#(*ANYCRLF)ANYCRLF)

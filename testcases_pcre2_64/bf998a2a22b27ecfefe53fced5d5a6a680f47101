@@ -1,0 +1,2 @@
+(*NO_JIT)[VW]+|..+\S*$ \=(*SKIP:NAME
+(\C(?-(*THEN)$

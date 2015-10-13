@@ -1,0 +1,1 @@
+(*NO_JIT)\h* T(.?i)[^s]+$$(*SKIP:NAME)

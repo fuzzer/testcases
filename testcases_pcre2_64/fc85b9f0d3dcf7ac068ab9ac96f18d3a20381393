@@ -1,0 +1,2 @@
+(*UTF)(*NO_JIT)(*UTF)\D.+.*(\R? 
+ž+\w|){37\.H(*MARK:NAME)

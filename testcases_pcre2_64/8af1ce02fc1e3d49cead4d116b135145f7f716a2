@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)	*[\P{Xan}].*\R*?$,X*\\xc\XUCP(*THEN)^\N(?x)

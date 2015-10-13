@@ -1,0 +1,2 @@
+(*BSR_ANYCRLF)(\v?\R{7……}^
+|){28(*SKIP)

@@ -1,0 +1,1 @@
+(*NO_JIT)([^:](,h\D|(*THEN:N(*NO(?(R&name)\A)*P{18}?RUNE)'E

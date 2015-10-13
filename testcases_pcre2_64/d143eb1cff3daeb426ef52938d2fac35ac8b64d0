@@ -1,0 +1,1 @@
+(*NO_JIT)<=|(^){I(*PRUNE);|[\P{Xuc}w]*Q(*THEN:\h*\G"|\s*LF)'

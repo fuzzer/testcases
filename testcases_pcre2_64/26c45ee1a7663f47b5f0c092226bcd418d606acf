@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)([^|j(?x)RLXsp\p{Xps}(*NOTEMPTY_ATSTART)Y]+(?U))}

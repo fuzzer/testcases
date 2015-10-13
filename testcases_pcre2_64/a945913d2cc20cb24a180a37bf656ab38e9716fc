@@ -1,0 +1,2 @@
+.*?((?!(?(DEFINE)E)
+C(*PRUNE:(*LF)(?(DEFINE)ART)(*ACCEPT)x)i)^ 

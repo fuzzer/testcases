@@ -1,0 +1,1 @@
+(*ANY)-.*?(?J)'(*SKIP)(?(?!...)LIMIT_RECURSION=t")

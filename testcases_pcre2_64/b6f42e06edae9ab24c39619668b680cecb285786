@@ -1,0 +1,2 @@
+'((?<=...))AN(*SKIP)B$|(s|(*SKIP:NAME(?(R&n(?C)T)
+(*THEN:NAME)

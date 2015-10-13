@@ -1,0 +1,2 @@
+(*UCP)(*UTF)(*BSR_ANYCRLF)\V*.+\R*?\s*/\*?v^ 
+$\h(NO_JIT)

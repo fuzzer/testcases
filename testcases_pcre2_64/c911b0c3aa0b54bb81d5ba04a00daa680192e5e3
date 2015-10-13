@@ -1,0 +1,1 @@
+(*NO_JIT)(*UCP)(*UTF).[(s\+\s)?\D+?S\(?<={4p{b(?(DEFINE)^9]?^|

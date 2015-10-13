@@ -1,0 +1,2 @@
+(*UTF).(\R|){7}+.+\V+(?!...((*THEN:NAME).(*ACCEPT)COMMM
+T))*IA

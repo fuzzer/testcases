@@ -1,0 +1,1 @@
+(*NOTEMPTY_ATSTART)(*NO_JIT)[\pS]{2}?(?<=...)(|)(\S\V|)s46

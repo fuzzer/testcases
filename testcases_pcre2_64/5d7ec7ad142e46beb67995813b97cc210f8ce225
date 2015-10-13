@@ -1,0 +1,1 @@
+(*UCP)(*UTF)(*NO_JIT)\w((*SKIP)]?){7}\Q (*CRLF)b.+\h{}5<=(*N(^\

@@ -1,0 +1,1 @@
+(*UCP)(*NO_JIT)(*UTF)(\S{\Wv|){3\R+(jUT(?s)*)\R\d}i*

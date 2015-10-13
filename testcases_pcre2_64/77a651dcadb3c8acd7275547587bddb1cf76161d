@@ -1,0 +1,1 @@
+(*ANYCRLF)(F)\b.+\hCRLF(?x)#(*UC.(?C"text")I

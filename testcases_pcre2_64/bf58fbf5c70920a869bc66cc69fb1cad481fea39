@@ -1,0 +1,2 @@
+(*UCP)(*UTF)(*NO_JIT)\.*.+.\w+\X*
+(\\V~w\\h\(*NOTEMPTY\WTSTART)

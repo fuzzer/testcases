@@ -1,0 +1,3 @@
+('
+$[	cò
+][^*]*)È|(\S?0)(*SKIP:NAME)	(*THEN:NAME) (*ACCEPT)

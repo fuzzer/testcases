@@ -1,0 +1,1 @@
+(*NO_JIT)((*SKIP:N(*BSR_UNICODE)TF)\p{Any}+(?s)(*SKIP:NAME)g\\V

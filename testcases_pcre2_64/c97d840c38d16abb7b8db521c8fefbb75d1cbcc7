@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)([*\v+ſǢ]\p{L&}+?\(*\H|U)(*PRUNE:NAME)

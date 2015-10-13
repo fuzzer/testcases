@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)(((?i)[^K]?[^K].?\w??))\g<-1>IMIT_MATCH=

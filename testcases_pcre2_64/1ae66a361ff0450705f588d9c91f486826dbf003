@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF).*\(*LIMIT_RECURSION=5*7*\d*3(?=...)$\R

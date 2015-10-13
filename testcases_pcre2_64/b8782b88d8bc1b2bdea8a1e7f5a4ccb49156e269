@@ -1,0 +1,2 @@
+(*NO_JIT)()+\v(*SKIP:NAME)AM\g<-1>
+\w++

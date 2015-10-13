@@ -1,0 +1,1 @@
+(*NO_JIT)\w*(|)?((?C)UNE)\g'+1'MPTY_A(?!...)((*PRUNE:(?J))sKTFi

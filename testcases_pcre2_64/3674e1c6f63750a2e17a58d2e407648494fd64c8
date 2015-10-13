@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)(\(\P{Xuc}*?)\((?<=.(*ACCEPT)T(?U)CH=OX*)T

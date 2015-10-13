@@ -1,0 +1,2 @@
+(*NO_JIT)\W*(?<!!(*SKIP:NAME)TF)\K\K\R+\X*
+(?i) 

@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)(?i).+\HKKXps*\dK\K(\(?i)'\X(?x)(*FAIL)

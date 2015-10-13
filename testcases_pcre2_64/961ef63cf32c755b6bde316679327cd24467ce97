@@ -1,0 +1,1 @@
+(*UTF)(;*[^[]+?)u*,*[$:\W(*NO_START_OPT)*\](*SKIP:NAME)(*FAIL)

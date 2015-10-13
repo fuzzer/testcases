@@ -1,0 +1,1 @@
+(*NO_JIT)\p{Ll}+?\P{^Xan}+|?(\A)(?i)A,{1(*THEN)

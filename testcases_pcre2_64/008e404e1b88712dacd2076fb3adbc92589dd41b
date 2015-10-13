@@ -1,0 +1,1 @@
+(*UCP)(*NO_JIT)((?Us).*ü.*|.*.*U(TF)?i)(.*)*\1*B\W+\d(*ACCEPT)

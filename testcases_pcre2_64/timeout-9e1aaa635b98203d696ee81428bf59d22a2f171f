@@ -1,0 +1,1 @@
+(*LIMIT_MATCH=)([%Z*\VWO_DOTSTAR_ANCHOR)]+\X\g'-1'(?<!...)...)	

@@ -1,0 +1,2 @@
+(*NO_JIT)(*SKIP:NAME)
+'|(Xps0,6})?\W*\H{6}()(\D*CRLF)\w(?J)(?J)

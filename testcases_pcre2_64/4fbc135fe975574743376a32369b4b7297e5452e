@@ -1,0 +1,2 @@
+(*UTF)ZE|.+\\b.+p{Yi\d+7.+(|\h/(*ACCEPT)name)
+(*PRUNE:NAME)

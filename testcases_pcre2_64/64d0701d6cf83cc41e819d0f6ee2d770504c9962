@@ -1,0 +1,2 @@
+(*ANY)(*NO_JIT)\D*\DX.*?(?x)#
+\+.#\g(*UT'(*ANYCRLF)\x90

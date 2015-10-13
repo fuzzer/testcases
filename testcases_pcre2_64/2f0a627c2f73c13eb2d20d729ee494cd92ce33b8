@@ -1,0 +1,2 @@
+(*UCP)(*UTF)(*NO_JIT)\
+*.+\W\Sw\Q 5(*(*COMMIT))UCP)((\g\g(?-\w

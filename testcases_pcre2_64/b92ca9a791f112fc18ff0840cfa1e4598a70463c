@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)(\B.+\hOTEMP(*FAIL))<=(w*..\H	?B((.)\p{L&}??i))A

@@ -1,0 +1,2 @@
+(*NO_JIT)(*PRUNE:NAME)\V*?$
+(£.+?Psalter_Pahlavi`\1p(*SKIP))\R

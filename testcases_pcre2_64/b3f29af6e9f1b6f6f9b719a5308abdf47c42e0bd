@@ -1,0 +1,2 @@
+\.(?<=((
+ACCEPT)UNICODE)ext|\Q\E\Q\E\Q\E\")(?<!.v...)^

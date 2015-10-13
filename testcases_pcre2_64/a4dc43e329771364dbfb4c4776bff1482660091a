@@ -1,0 +1,1 @@
+((*PRUNE:N(?=...)=...)((*PRUNE:NAME)(*PRUNE:NAME)(*PRUNE:NAME))

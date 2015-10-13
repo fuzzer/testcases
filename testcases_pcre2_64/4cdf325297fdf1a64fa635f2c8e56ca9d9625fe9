@@ -1,0 +1,1 @@
+(*ANY)(*NO_JIT)(*UCP)(\z\R|\h*[¬]*\d\PS*\p{Xan}?\R{2*UCP)'\

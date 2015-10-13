@@ -1,0 +1,2 @@
+(*UCP)(*UTF)(*NO_JIT)\
+*.+\W+~w\Q 5(*(?i)NO_?J)UCP)(*UTF).Xuc\S

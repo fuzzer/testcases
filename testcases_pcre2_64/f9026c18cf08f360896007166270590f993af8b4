@@ -1,0 +1,2 @@
+(*UTF)(*NO_JIT)k
+*\s(\R??){+(?x)n*(CRLF9)}

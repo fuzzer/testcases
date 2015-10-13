@@ -1,0 +1,1 @@
+(?<=\b((*COMMIT)!(\v\D(*THEN)){9})|()*SKIP:NAME)

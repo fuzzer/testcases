@@ -1,0 +1,1 @@
+(*UCP)(*CRLF)(*UTF)(*UCP)(\D{*UTF).+\*\v+?^s?\\W{4Wb:.b.+\h{}

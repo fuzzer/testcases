@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)(*BSR_UNICODE)(?:.)\\\v?\V+\D*.\$j\H++\B{Xuc}

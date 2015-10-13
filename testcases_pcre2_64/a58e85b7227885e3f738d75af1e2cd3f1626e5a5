@@ -1,0 +1,2 @@
+(*NO_JIT)(*UCP)(*UTF)(*NO_JIT)\
+*.+\W\Hw\Q (*UTF)	\

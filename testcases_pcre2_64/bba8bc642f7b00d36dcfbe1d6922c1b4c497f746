@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)\D((?i)[^)[]+)\W*(\p{Yi}+UTF)\Q'\E\Q7\E\Q'\

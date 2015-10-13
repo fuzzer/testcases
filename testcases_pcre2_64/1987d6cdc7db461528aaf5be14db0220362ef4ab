@@ -1,0 +1,1 @@
+(*UTF)(*UCP)(*NO_JIT)\S(\D*)\({8(*THEN:(*UTF).+\X\g<-1>$l&

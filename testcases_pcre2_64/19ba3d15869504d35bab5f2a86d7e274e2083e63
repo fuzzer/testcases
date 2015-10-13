@@ -1,0 +1,2 @@
+(*NO_JIT)(*UCP)(*UTF)*\S# +^s=
+.+\dZ+|.(e*UTF\d	*^h/)

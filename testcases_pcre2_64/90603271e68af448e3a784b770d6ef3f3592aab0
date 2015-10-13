@@ -1,0 +1,1 @@
+(*UCP)(*UTF)(*NO_JIT)\W?\w?.+\.s?\s(*FAIL)

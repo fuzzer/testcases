@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)(\(*UTF)(\s?){7}|g{S{3(*ACCEPT)(?=...)(?#(*SKIP)

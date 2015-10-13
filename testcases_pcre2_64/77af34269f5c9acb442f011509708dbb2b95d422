@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)\B\b\\S+\.*(*THEN:NAME)%

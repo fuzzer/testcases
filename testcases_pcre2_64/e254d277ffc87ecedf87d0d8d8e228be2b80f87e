@@ -1,0 +1,2 @@
+(*NO_JIT)(*UCP)(*UTF)(*CRLF)(*UTF)..*P{.+.+\X
+^(?#(*CRLF)

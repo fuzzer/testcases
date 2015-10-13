@@ -1,0 +1,1 @@
+(*NO_JIT)(h*UTF)(?i)(.+):([^[]+?\1*)+Xuc(*SKIP:NAME)

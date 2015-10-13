@@ -1,0 +1,1 @@
+(*NO_JIT)x*:((\D(*SKIP:(*LIMIT(*ANY)=P:NAME(?=...)))++(?!...)sp

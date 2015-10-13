@@ -1,0 +1,1 @@
+(*NO_JIT)\D*.(?<=...\S(*ACCEPT))?(?!FINE)*NO_N((*THEN:NAME)AME)

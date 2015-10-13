@@ -1,0 +1,2 @@
+(*ANYCRLF)F((?UUUU).+\(*NO_START_OPT)\)s?(?=$..)(?m)
+(?J)(?s)' 

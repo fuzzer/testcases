@@ -1,0 +1,1 @@
+(*NO_JIT)(*UTF)T\p{Any}?.F".+.*\S\s?hn\{2}v*\*(\B)(*PRUNE)^

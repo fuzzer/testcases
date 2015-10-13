@@ -1,0 +1,2 @@
+(*NO_JIT);*LI.*?Š\X*(*SKIP:NAME)
+*Y (*THEN)(*PRUNE)

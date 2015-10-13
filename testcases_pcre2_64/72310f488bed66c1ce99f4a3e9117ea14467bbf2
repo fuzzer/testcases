@@ -1,0 +1,1 @@
+(*NO_JIT)6{(?i).{“(*SKIP:NAME)^:](?m)|i*.+(*THEN)(?C"text")R\w

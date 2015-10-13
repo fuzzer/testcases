@@ -1,0 +1,2 @@
+((*ACCEPT)d{(*THEN:NAME)PRUNE){1,6}+ (*PRUNE:NAME)
+(*THEN)(?C)

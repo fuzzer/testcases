@@ -1,0 +1,1 @@
+(*ANY)(*UTF).+(\`.?.|(\1 \(*BSR_ANYCRLF)(*SKIP:NAME(*ANY)EFINE)

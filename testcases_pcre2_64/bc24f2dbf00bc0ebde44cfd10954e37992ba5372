@@ -1,0 +1,1 @@
+(*NO_JIT)(?=NO_JIT)\S*\v+.+.*:*\\W\K|Xsp

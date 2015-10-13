@@ -1,0 +1,1 @@
+(*CRLF)(*UTF)(*NO_JIT)(DEFINE)\b.+\h{5}(?x)#*\\wX*w+(*ANY)

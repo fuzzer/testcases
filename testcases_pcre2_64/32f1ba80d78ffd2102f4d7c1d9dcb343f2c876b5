@@ -1,0 +1,1 @@
+(*NO_JIT)(?(?!RUNE)\\h|(|X|\g<-1>|!^%;]+?\\S*BSR_ANYCRLF))\s\N

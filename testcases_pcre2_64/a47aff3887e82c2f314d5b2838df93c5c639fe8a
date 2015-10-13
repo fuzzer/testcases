@@ -1,0 +1,1 @@
+.*(\b)+(*MARK:NAME)(*:.)(*:Þ([^:UTF(((*NO_JIT)(*ACCEPT)(*FAIL)

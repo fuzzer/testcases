@@ -1,0 +1,1 @@
+(*UCP)(*UTF)(*NO_JIT)b\W?\w?.?(*:U|H*?^*(*BSR_ANYCRLF)(?i)

@@ -1,0 +1,2 @@
+(*UCP)(*UTF)(*UTF)(*NO_JIT)(*UTF)(?i)(.+)(\w|\1<%+\V
+(?JJ))Xps

@@ -1,0 +1,1 @@
+(*UCP)(*UTF)(*NO_JIT).:\D(\S+\W+?\\g+1>=...)*PSora_Somp(?U) \+?

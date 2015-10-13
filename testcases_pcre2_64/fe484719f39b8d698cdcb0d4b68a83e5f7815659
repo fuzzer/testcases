@@ -1,0 +1,1 @@
+(*NO_JIT)(*BSR_UNICODE)(?:..*\PL+Š(?<!((*PRUNE:NAME)){88)}){3{9}

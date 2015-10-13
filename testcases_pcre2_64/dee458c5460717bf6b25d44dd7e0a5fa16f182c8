@@ -1,0 +1,2 @@
+(*UTF)(*UCP)(*UCP)(*UCP)(*CRLF)(*UTF)(*UCP);(.+\R*
+*UTF).+\s?\\W

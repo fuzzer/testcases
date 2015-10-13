@@ -1,0 +1,1 @@
+(*ANY)(*NO_JIT)(?!..(*PRUNE:N(*NO_JIT)[VW]+|.(?!...))S*$

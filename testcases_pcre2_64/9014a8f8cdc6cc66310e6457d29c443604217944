@@ -1,0 +1,1 @@
+(*ANYCRLF)(*UCP)(*UTF)(*NO_JIT)\S*\v+\H.*:*\\W.+.*\S\s\K#?Xws

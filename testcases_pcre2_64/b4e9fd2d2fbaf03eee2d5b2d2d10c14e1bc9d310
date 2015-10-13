@@ -1,0 +1,4 @@
+(*UTF)(*NO_JIT)(*UTF)\D.+.*\R? .ž+\H*\v*?\s
+
+
+$%'N(*ACCEPT)\h

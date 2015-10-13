@@ -1,0 +1,2 @@
+(*UCP)(*UTF)(*NO_JIT)(*MARK:NAME)\X*?.\s+$\R+\X|
+Xws

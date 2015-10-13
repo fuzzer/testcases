@@ -1,0 +1,1 @@
+(*NO_JIT)(*ANY)(*UTF)(*NO_JIT)(.*?)?\D\H*\v*?

@@ -1,0 +1,1 @@
+(*NO_JIT)((?s)N[^ ]\H+.+((*SKIP:NAM(*PRUNE)R){0}E)()*.\S(?!...)

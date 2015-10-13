@@ -1,0 +1,1 @@
+(*NO_JIT)\W(\D*?)*5+h*P(*PRUNE)N(?C"text")

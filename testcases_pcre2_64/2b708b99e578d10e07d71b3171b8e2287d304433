@@ -1,0 +1,2 @@
+(*ANY)(*NO_JIT)(*UCP)(*UTF).*.+\v*+.?\\.o.*$!
+(*SKIP:NAME) 

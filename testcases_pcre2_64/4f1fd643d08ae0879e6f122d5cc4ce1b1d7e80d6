@@ -1,0 +1,1 @@
+(*UCP)(*NO_JIT).+[^P£]*?\s+[-\WXpswd\[0\	\\PSi/](*PRUNE)\(

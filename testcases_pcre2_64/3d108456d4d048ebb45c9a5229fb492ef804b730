@@ -1,0 +1,3 @@
+(*NO_JIT)(\VS
+
+|(\v*|){1R_UNICOD76}E)(?:.)(?=x^)\d(*ACCEPT)

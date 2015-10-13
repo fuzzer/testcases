@@ -1,0 +1,2 @@
+(*UCP)(*NO_JIT)(*UTF)
+*(\PS*\p{Xan}?;)Z?(*MARK:NAME(?!...)-Xws*

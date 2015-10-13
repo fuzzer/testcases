@@ -1,0 +1,1 @@
+(*UCP)([^!](?!A(*PRUNE)B(*SKIP))(*THEN)D*COMMIT)E

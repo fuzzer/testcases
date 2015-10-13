@@ -1,0 +1,2 @@
+(*NO_JIT)\S\(([(?\g'-n'?^ms)
+,\W*[\w]+\]{0,9}mW){(*PRUNE:NAME)

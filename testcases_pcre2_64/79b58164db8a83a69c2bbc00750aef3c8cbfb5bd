@@ -1,0 +1,3 @@
+(*UCP)(*UTF)(*ANY).'\s?\(*.+(?m)$$$
+(?mi)$XspM
+(?C"text")ng

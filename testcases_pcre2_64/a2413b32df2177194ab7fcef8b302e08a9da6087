@@ -1,0 +1,1 @@
+(*NO_JIT)\\X*\D?(*SKIP:NAME).+(?i){{6}A*7}+},:.(*PRUNE:NAME)

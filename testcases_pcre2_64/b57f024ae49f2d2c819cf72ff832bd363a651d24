@@ -1,0 +1,3 @@
+(*NO_JIT)*.+\R*?
+(?|(|Æx|!*ÿ\RR
+(;\R?\(*SKIP:NAME)E:NAME)*CR)	

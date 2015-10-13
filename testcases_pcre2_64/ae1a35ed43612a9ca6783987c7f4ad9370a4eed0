@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT).[^.;]+?(*SKIP:NAM\g'+1'a$(*BSR_UNICODE)<+1> 

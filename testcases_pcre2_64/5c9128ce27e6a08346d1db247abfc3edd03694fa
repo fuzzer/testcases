@@ -1,0 +1,1 @@
+(*CR)(*NO_JIT)(?!((?Us).*.*?.\v\v.((?R).|)+\S*THEN:NAME)AME)

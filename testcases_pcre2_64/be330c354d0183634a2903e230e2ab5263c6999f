@@ -1,0 +1,1 @@
+(*LF)(*NO_JIT)\D+.(?i)'?(*SKIP:NAME)(?x)\d

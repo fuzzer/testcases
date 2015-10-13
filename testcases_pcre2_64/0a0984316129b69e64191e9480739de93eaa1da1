@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)(.+\v+((?s)^B\B\B\B\BC\h*)\\b\b\#\b\B\s\B\B)\R

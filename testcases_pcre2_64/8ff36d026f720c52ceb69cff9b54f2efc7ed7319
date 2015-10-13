@@ -1,0 +1,2 @@
+(*UCP)(*UTF)(*BSR_ANYCRLF)\(\P{Yi}R*.+\R*?\s*/ 
+$\hs?\Xsp

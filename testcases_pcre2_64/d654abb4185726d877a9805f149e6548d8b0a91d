@@ -1,0 +1,1 @@
+(*NO_JIT)([^(*U(*NO_DOTSTAR.ANCHOR)C\s})m].\S*?\s+ *(?=...)s)

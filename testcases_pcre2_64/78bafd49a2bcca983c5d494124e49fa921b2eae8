@@ -1,0 +1,2 @@
+(*ANY)(*UTF)(*NO_JIT)!\W*\V+.+\s*?\B\B\B\B\$\B\d\b\B\B\&{BXsp
+%

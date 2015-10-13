@@ -1,0 +1,1 @@
+(*UCP)(*NO_JIT)(&\S*(?=..)*\w	(*SKIP:NAME)\A{\A\(?x)A7'!_I

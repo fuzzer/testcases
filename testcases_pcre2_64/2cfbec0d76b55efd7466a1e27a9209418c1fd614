@@ -1,0 +1,1 @@
+(*ANYCRLF)(*UTF)(*NO_JIT)?.*.(?(DEFINE)CURSI(?<=...)_ANYCRLF)

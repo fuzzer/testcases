@@ -1,0 +1,1 @@
+(*UTF)(*NO_JIT)(?!Xan)([^m]+?(*MARK:NAME))\(?\g'-1'(*PRUNE)
